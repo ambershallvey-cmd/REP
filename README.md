@@ -4,7 +4,10 @@
 * [Setup](#setup)
 
 ## General info
-This coded assignment is for users who experience anxiety when using restrooms. 
+Pressing Play is a music-based coding project designed for people who experience anxiety when using public restrooms.
+The project explores how music can create a greater sense of comfort and privacy by using an original soundscape to help mask surrounding noises. The composition combines melody, bass and percussion to create an upbeat and consistent listening experience.
+
+
 	
 ## Technologies
 Project is created with:
